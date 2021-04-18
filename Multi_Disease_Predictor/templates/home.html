@@ -1,0 +1,25 @@
+{% extends 'main.html' %}
+{% block content %}
+{% if message %}
+        <div class="alert alert-danger">{{ message }}</div>
+    {% endif %}
+<div class="container">
+    <div class="card card-body" style="border: 1px solid black; box-shadow: 0 0 10px black;">
+        <h2>This is basic Machine Learning and Deep Learning based WebApp.</h2>
+        <p>These Machine Learning models and Deep Leaning models are trained on large datasets and thousands of images.</p>
+        <br>
+        <h2>Model Accuracies:</h2>
+        <ul>
+            <li>Diabetes Model: <strong>98.25%</strong></li>
+            <li>Breast Cancer Model: <strong>98.25%</strong></li>
+            <li>Heart Disease Model: <strong>85.25%</strong></li>
+            <li>Kidney Disease Model: <strong>99%</strong></li>
+            <li>Liver Disease Model: <strong>78%</strong></li>
+            <li>Malaria Model: <strong>96%</strong></li>
+            <li>Pneumonia Model: <strong>95%</strong></li>
+        </ul>
+        <br>
+        
+    </div>
+</div>
+{% endblock %}
