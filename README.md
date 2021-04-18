@@ -8,9 +8,10 @@ Link to view the web app:
 
 #### TRACK : HEALTH
 
-##Problem statement
+## Problem statement
 
-Lack of awareness of the symptoms often lead to greater complications. People often fail to consult on time due to negligence, cost factor , time constraints, financial matters and many more. Getting an appointment from doctor takes weeks even after having all reports at hand. Fake news make it more complicated to diagnose by yourself. Seeing your weight on scales can be frustrating, which is also a major part of diseases.
+Lack of awareness of the symptoms often lead to greater complications. People often fail to consult on time due to negligence, cost factor , time constraints, financial matters and many more. Getting an appointment from doctor takes weeks even after having all reports at hand. Fake news make it more complicated to diagnose by yourself. Seeing your weight on scales can be frustrating, which is also a major part of diseases, so a little fun game to incorporate concept of space which checks your weight in different planets.
+
 
 ### Space Weight 
  Know your weight in different planets,if your earth weight haunts you. A fun little web app that tells your weight in diffrent planet if you were ever curious about that
