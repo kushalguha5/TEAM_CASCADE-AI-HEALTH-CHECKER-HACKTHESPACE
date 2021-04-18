@@ -40,7 +40,7 @@ The pnuemonia datset being huge could not be uploaded on github. So here is the 
 -PYTHON 3
 -TENSORFLOW
 -KERAS
--LOGISTIC REGRESSION, DEEP LEARNING
+-LOGISTIC REGRESSION, DEEP LEARNING, CNN
 -FLASK, DJANGO
 -HEROKU (for deployment of the frontend of Predictions)
 -JAVASCRIPT, JQUERY
