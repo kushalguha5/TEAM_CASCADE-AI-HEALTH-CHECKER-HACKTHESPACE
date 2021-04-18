@@ -4,7 +4,7 @@ Link to view the web app:
 
 <a href="https://kushalguha5.github.io/TEAM_CASCADE-AI-HEALTH-CHECKER-HACKTHESPACE/">https://kushalguha5.github.io/TEAM_CASCADE-AI-HEALTH-CHECKER-HACKTHESPACE/</a>
 
-## TEAM CASCADE : SHAYANTANI KAR, KUSHAL GUHA
+##TEAM CASCADE : SHAYANTANI KAR, KUSHAL GUHA
 
 ##TRACK : HEALTH
 
@@ -19,7 +19,8 @@ Lack of awareness of the symptoms often lead to greater complications. People of
 - Formula: `weight on any planet = ((your weight on earth/earth gravitaional pull)* that planets gravitaional pull)`
 - Example on moon `weight on moon =((67/9.8)*1.62) = 10.24`
 
-###Deployment:
+
+### Deployment
 
 This disease prediction webapp was developed using Flask Web Framework and was deployed on Heroku server. The models used to predict the diseases were trained on large Datasets. All the links for datasets and the python notebooks used for model creation are mentioned below in this readme. The webapp can predict following Diseases:
 * Diabetes
